@@ -1,3 +1,6 @@
+# Python Fundamentals Repository Structure
+
+```text
 python-fundamentals/
 │
 ├── README.md
