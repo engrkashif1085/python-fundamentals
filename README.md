@@ -27,6 +27,7 @@ problem solving, and practical projects.
 - [ ] Object-Oriented Programming
 - [ ] Advanced Python Concepts
 
+```
 Python Programming Fundamentals
 │
 ├── 01. Python Setup & Basics
@@ -605,7 +606,7 @@ Python Programming Fundamentals
     ├── CSV Data Analyzer
     ├── API Data Fetcher
     └── OOP Library Management System
-
+```
 ## 📂 Repository Structure
 
 | Section | Topics |
